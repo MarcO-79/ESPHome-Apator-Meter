@@ -1,6 +1,6 @@
-#include <PubSubClient.h>
+//#include <PubSubClient.h>
 //#include <WiFi.h>
-#include <ESP8266WiFi.h>
+//#include <ESP8266WiFi.h>
 #include <map>
 #include "secrets.h"
 #include "mqtt.h"
