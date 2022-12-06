@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <SPI.h>
-#include <ESP8266WiFi.h>
 #include "rf_mbus.hpp"
 #include "crc.hpp"
 #include "utils.hpp"
