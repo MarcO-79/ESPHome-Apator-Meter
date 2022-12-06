@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <SPI.h>
-#include "crc.hpp"
-#include "utils.hpp"
+//#include "crc.hpp"
+//#include "utils.hpp"
 #include "mbus_packet.hpp"
 #include "mqtt.h"
 #include <ArduinoJson.h>
@@ -10,7 +10,7 @@
 #include "wmbus_utils.h"
 #include <string.h>
 #include <string>
-#include "util.h"
+//#include "util.h"
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 #include <AsyncElegantOTA.h>
